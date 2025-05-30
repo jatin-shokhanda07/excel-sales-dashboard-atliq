@@ -1,2 +1,2 @@
-# excel-sales-dashboard-atliq
-📊 Excel dashboard project analyzing AtliQ Hardware's sales performance by country, product, division, and target comparisons for 2020–2021.
+# 📊 AtliQ Hardware Sales Dashboard (Excel Project)
+**A data-driven Excel dashboard project analyzing sales trends, growth, and target performance for AtliQ Hardware (2020–2021).**
